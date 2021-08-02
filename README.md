@@ -2,14 +2,14 @@ SIMPLY A MUSIC VC BOT FOR PRIVATE USE.
 
  
 <p align="center">
-  <img src="https://telegra.ph/file/cd68595f6a64659d05e79.jpg">
+  <img src="https://telegra.ph/file/53645856b74de6c085ee1.jpg">
 </p>
 
  
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/skypar/SKYPARMUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-PINK?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/skypar/NITIN_VC__MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-PINK?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 MORE
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
