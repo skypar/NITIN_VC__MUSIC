@@ -1,9 +1,9 @@
 {
-  "name": "SKYPARMusic",
-  "logo": "https://telegra.ph/file/cd68595f6a64659d05e79.jpg",
+  "name": "NITINMusic",
+  "logo": "https://github.com/skypar/NITIN_VC__MUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/skypar/SKYPARMUSIC",
+  "repository": "https://github.com/skypar/NITIN_VC__MUSIC",
   "stack": "container",
   "buildpacks": [
    {
